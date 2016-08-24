@@ -1,0 +1,18 @@
+{
+  "title": "Russian Propaganda Detector",
+  "name": "russianpropagandadetector",
+  "version": "0.0.1",
+  "description": "Worns the user if the current site is a part of the Russian propaganda.",
+  "main": "index.js",
+  "author": "Zahari Yurukov <zahari.yurukov@gmail.com>",
+  "engines": {
+    "firefox": "48.0 - 100.0"
+  },
+  "license": "GPL v2",
+  "keywords": [
+    "warning",
+    "russian",
+    "propaganda",
+    "site"
+  ]
+}
