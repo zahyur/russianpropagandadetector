@@ -1,6 +1,6 @@
 #russian Propaganda Detector
 Warns the user if the current site is a part of the Russian propaganda in Bulgaria.
-It gets the site list from: https://gist.githubusercontent.com/yradunchev/3cecf6fba6b74d582d30/raw/c7af610c1467f62f8a292785137d8224093f7f9b/unmedia.txt
+I got the sites list from: https://gist.githubusercontent.com/yradunchev/3cecf6fba6b74d582d30/
 Thanks to Yordan Radunchev for compiling this list.
 It expresses the author's opinion and doesn't pretend to be 100% accurate or comprehensive.
 
