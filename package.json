@@ -1,7 +1,7 @@
 {
   "title": "Russian Propaganda Detector",
   "name": "russianpropagandadetector",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Worns the user if the current site is a part of the Russian propaganda.",
   "main": "index.js",
   "author": "Zahari Yurukov <zahari.yurukov@gmail.com>",
@@ -13,6 +13,16 @@
     "warning",
     "russian",
     "propaganda",
-    "site"
-  ]
+    "site",
+    "предупреждение",
+    "руска",
+    "пропаганда",
+    "сайт"
+  ],
+    "locales": {
+        "bg": {
+            "title": "Детектор за руска пропаганда", 
+            "description": "Предупреждава потребителя, ако текущия сайт е част от руската пропаганда."
+        }
+    }
 }
