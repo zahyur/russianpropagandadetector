@@ -14,6 +14,8 @@ It expresses the author's opinion and doesn't pretend to be 100% accurate or com
 #Usage
 When you visit a site from the above list - a warning dialog will appear, asking you to confirm leaving the site.
 
+![Screenshot of the dialog box](russian_propaganda_detected.png)
+
 If you don't want to receive warnings for a particular site - uncheck the checkbox "Always worn me for this site" when the warning appears for this site.
 
 Press the Ok button to leave the site, or the Cancel button to ignore the warning.
