@@ -1,0 +1,6 @@
+{
+  "name": "Russian Propaganda Detector",
+  "tagline": "Firefox addon, which warns the user if the current site is a part of the Russian propaganda in Bulgaria.",
+  "body": "#russian Propaganda Detector\r\nWarns the user if the current site is a part of the Russian propaganda in Bulgaria.\r\n\r\n#You can install the addon from:\r\nhttps://addons.mozilla.org/firefox/addon/russian-propaganda-detector/\r\n\r\nI got the sites list from:\r\nhttps://gist.githubusercontent.com/yradunchev/3cecf6fba6b74d582d30/\r\n\r\nThanks to Yordan Radunchev for compiling this list.\r\n\r\nIt expresses the author's opinion and doesn't pretend to be 100% accurate or comprehensive.\r\n\r\n#Usage\r\nWhen you visit a site from the above list - a warning dialog will appear, asking you to confirm leaving the site.\r\n\r\n![Screenshot of the dialog box](russian_propaganda_detected.png)\r\n\r\nIf you don't want to receive warnings for a particular site - uncheck the checkbox \"Always worn me for this site\" when the warning appears for this site.\r\n\r\nPress the Ok button to leave the site, or the Cancel button to ignore the warning.\r\n\r\nIf you don't want to receive such warnings at all - uninstall the add-on or don't install it in the first place!\r\n\r\n\r\nEnjoy!\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
