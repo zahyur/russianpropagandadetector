@@ -45,7 +45,7 @@ for(var i=0; i < domains.length; i++) {
 
 tabs.on('ready', function(tab) {
 	var domain = URL.URL(tab.url).hostname.replace(/^www\./, "");
-	if(isPropaganda(domain) && !shouldIgnore(domain)) {
+	if(domain && isPropaganda(domain) && !shouldIgnore(domain)) {
 		tab.activate();
 		var warnAgain = {value: true};
 		var result = prompts.confirmCheck(null,
